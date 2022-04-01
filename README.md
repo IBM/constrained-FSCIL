@@ -8,6 +8,8 @@ _CVPR'22_
   <img src='figs/cfscil.png' width="50%"/>
 </div>
 
+## [[Paper]](http://arxiv.org/abs/2203.16588)
+
 ## Requirements
 
 The `conda` software is required for running the code. Generate a new environment with
